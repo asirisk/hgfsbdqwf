@@ -11,8 +11,8 @@ from telegram.ext import (
 # ============================================================
 #  КОНФИГ
 # ============================================================
-BOT_TOKEN = "8952329039:AAFWRXYh5NuVKoSOnprkqrBq7TjcV_U7a-Y"
-OWNER_ID = 8239419486
+BOT_TOKEN = "токен"
+OWNER_ID = айди
 
 STORAGE = os.path.expanduser("~/c2_storage")
 os.makedirs(STORAGE, exist_ok=True)
